@@ -1,0 +1,6 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\FindStudentsWithProperAge\bin\Debug\FindStudentsWithProperAge.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\FindStudentsWithProperAge\obj\Debug\04_FindStudentsWithProperAge.csprojResolveAssemblyReference.cache
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\FindStudentsWithProperAge\bin\Debug\FindStudentsWithProperAge.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\FindStudentsWithProperAge\bin\Debug\FindStudentsWithProperAge.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\FindStudentsWithProperAge\obj\Debug\FindStudentsWithProperAge.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\FindStudentsWithProperAge\obj\Debug\FindStudentsWithProperAge.pdb

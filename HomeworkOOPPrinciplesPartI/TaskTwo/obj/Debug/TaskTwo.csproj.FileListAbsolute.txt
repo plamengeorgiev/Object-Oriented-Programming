@@ -1,0 +1,6 @@
+c:\users\plamen\documents\visual studio 2012\Projects\OOPPrinciplesPartI\TaskTwo\bin\Debug\TaskTwo.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\OOPPrinciplesPartI\TaskTwo\bin\Debug\TaskTwo.exe
+c:\users\plamen\documents\visual studio 2012\Projects\OOPPrinciplesPartI\TaskTwo\bin\Debug\TaskTwo.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\OOPPrinciplesPartI\TaskTwo\obj\Debug\TaskTwo.csprojResolveAssemblyReference.cache
+c:\users\plamen\documents\visual studio 2012\Projects\OOPPrinciplesPartI\TaskTwo\obj\Debug\TaskTwo.exe
+c:\users\plamen\documents\visual studio 2012\Projects\OOPPrinciplesPartI\TaskTwo\obj\Debug\TaskTwo.pdb

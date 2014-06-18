@@ -1,0 +1,6 @@
+c:\users\plamen\documents\visual studio 2012\Projects\OOPPrinciplesPartI\TaskThree\bin\Debug\TaskThree.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\OOPPrinciplesPartI\TaskThree\bin\Debug\TaskThree.exe
+c:\users\plamen\documents\visual studio 2012\Projects\OOPPrinciplesPartI\TaskThree\bin\Debug\TaskThree.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\OOPPrinciplesPartI\TaskThree\obj\Debug\TaskThree.exe
+c:\users\plamen\documents\visual studio 2012\Projects\OOPPrinciplesPartI\TaskThree\obj\Debug\TaskThree.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\OOPPrinciplesPartI\TaskThree\obj\Debug\TaskThree.csprojResolveAssemblyReference.cache

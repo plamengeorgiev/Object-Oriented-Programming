@@ -1,0 +1,6 @@
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\OOPPrinciplesPartII\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\OOPPrinciplesPartII\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\OOPPrinciplesPartII\Shapes\bin\Debug\Shapes.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\OOPPrinciplesPartII\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\OOPPrinciplesPartII\Shapes\obj\Debug\Shapes.exe
+C:\Users\Plamen\Documents\Visual Studio 2012\Projects\OOPPrinciplesPartII\Shapes\obj\Debug\Shapes.pdb

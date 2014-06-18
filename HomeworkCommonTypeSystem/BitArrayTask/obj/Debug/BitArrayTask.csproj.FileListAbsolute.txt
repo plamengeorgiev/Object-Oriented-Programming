@@ -1,0 +1,5 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkCommonTypeSystem\BitArrayTask\bin\Debug\BitArrayTask.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkCommonTypeSystem\BitArrayTask\bin\Debug\BitArrayTask.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkCommonTypeSystem\BitArrayTask\bin\Debug\BitArrayTask.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkCommonTypeSystem\BitArrayTask\obj\Debug\BitArrayTask.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkCommonTypeSystem\BitArrayTask\obj\Debug\BitArrayTask.pdb

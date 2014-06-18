@@ -1,0 +1,6 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkDefiningClassesPartI\MobilePhoneDevice\bin\Debug\MobilePhoneDevice.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkDefiningClassesPartI\MobilePhoneDevice\obj\Debug\MobilePhoneDevice.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkDefiningClassesPartI\MobilePhoneDevice\bin\Debug\MobilePhoneDevice.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkDefiningClassesPartI\MobilePhoneDevice\bin\Debug\MobilePhoneDevice.pdb
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkDefiningClassesPartI\MobilePhoneDevice\obj\Debug\MobilePhoneDevice.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkDefiningClassesPartI\MobilePhoneDevice\obj\Debug\MobilePhoneDevice.pdb

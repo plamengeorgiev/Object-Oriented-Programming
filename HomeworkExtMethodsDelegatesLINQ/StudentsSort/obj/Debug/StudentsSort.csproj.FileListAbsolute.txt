@@ -1,0 +1,5 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\StudentsSort\bin\Debug\StudentsSort.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\StudentsSort\bin\Debug\StudentsSort.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\StudentsSort\bin\Debug\StudentsSort.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\StudentsSort\obj\Debug\StudentsSort.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\StudentsSort\obj\Debug\StudentsSort.pdb

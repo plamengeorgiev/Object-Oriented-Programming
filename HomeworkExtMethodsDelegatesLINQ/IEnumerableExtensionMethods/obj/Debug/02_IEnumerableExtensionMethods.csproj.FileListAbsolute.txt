@@ -1,0 +1,6 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\IEnumerableExtensionMethods\bin\Debug\IEnumerableExtensionMethods.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\IEnumerableExtensionMethods\bin\Debug\IEnumerableExtensionMethods.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\IEnumerableExtensionMethods\bin\Debug\IEnumerableExtensionMethods.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\IEnumerableExtensionMethods\obj\Debug\02_IEnumerableExtensionMethods.csprojResolveAssemblyReference.cache
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\IEnumerableExtensionMethods\obj\Debug\IEnumerableExtensionMethods.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\IEnumerableExtensionMethods\obj\Debug\IEnumerableExtensionMethods.pdb

@@ -1,0 +1,6 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\PrintDivisableNumbers\bin\Debug\PrintDivisableNumbers.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\PrintDivisableNumbers\bin\Debug\PrintDivisableNumbers.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\PrintDivisableNumbers\bin\Debug\PrintDivisableNumbers.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\PrintDivisableNumbers\obj\Debug\06_PrintDivisableNumbers.csprojResolveAssemblyReference.cache
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\PrintDivisableNumbers\obj\Debug\PrintDivisableNumbers.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\PrintDivisableNumbers\obj\Debug\PrintDivisableNumbers.pdb

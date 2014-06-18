@@ -1,0 +1,6 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\StudentNames\obj\Debug\03_StudentNames.csprojResolveAssemblyReference.cache
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\StudentNames\bin\Debug\StudentNames.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\StudentNames\bin\Debug\StudentNames.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\StudentNames\bin\Debug\StudentNames.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\StudentNames\obj\Debug\StudentNames.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\StudentNames\obj\Debug\StudentNames.pdb

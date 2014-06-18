@@ -1,0 +1,6 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\SubstringExtensionMethod\bin\Debug\SubstringExtensionMethod.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\SubstringExtensionMethod\bin\Debug\SubstringExtensionMethod.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\SubstringExtensionMethod\bin\Debug\SubstringExtensionMethod.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\SubstringExtensionMethod\obj\Debug\SubstringExtensionMethod.csprojResolveAssemblyReference.cache
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\SubstringExtensionMethod\obj\Debug\SubstringExtensionMethod.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\SubstringExtensionMethod\obj\Debug\SubstringExtensionMethod.pdb

@@ -1,0 +1,5 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkCommonTypeSystem\PersonTask\bin\Debug\PersonTask.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkCommonTypeSystem\PersonTask\bin\Debug\PersonTask.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkCommonTypeSystem\PersonTask\bin\Debug\PersonTask.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkCommonTypeSystem\PersonTask\obj\Debug\PersonTask.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkCommonTypeSystem\PersonTask\obj\Debug\PersonTask.pdb

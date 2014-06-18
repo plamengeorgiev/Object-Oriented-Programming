@@ -1,0 +1,6 @@
+C:\Users\Plamen\documents\visual studio 2012\Projects\OOPPrinciplesPartII\ExceptionClass\bin\Debug\ExceptionClass.exe.config
+C:\Users\Plamen\documents\visual studio 2012\Projects\OOPPrinciplesPartII\ExceptionClass\bin\Debug\ExceptionClass.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\OOPPrinciplesPartII\ExceptionClass\bin\Debug\ExceptionClass.pdb
+C:\Users\Plamen\documents\visual studio 2012\Projects\OOPPrinciplesPartII\ExceptionClass\obj\Debug\ExceptionClass.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\OOPPrinciplesPartII\ExceptionClass\obj\Debug\ExceptionClass.pdb
+C:\Users\Plamen\documents\visual studio 2012\Projects\OOPPrinciplesPartII\ExceptionClass\obj\Debug\ExceptionClass.csprojResolveAssemblyReference.cache

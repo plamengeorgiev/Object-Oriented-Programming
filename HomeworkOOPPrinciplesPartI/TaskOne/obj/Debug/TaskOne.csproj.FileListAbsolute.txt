@@ -1,0 +1,6 @@
+c:\users\plamen\documents\visual studio 2012\Projects\OOPPrinciplesPartI\TaskOne\bin\Debug\TaskOne.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\OOPPrinciplesPartI\TaskOne\obj\Debug\TaskOne.csprojResolveAssemblyReference.cache
+c:\users\plamen\documents\visual studio 2012\Projects\OOPPrinciplesPartI\TaskOne\bin\Debug\TaskOne.exe
+c:\users\plamen\documents\visual studio 2012\Projects\OOPPrinciplesPartI\TaskOne\bin\Debug\TaskOne.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\OOPPrinciplesPartI\TaskOne\obj\Debug\TaskOne.exe
+c:\users\plamen\documents\visual studio 2012\Projects\OOPPrinciplesPartI\TaskOne\obj\Debug\TaskOne.pdb

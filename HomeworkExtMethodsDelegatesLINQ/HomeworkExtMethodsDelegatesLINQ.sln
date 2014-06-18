@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_SubstringExtensionMethod", "SubstringExtensionMethod\01_SubstringExtensionMethod.csproj", "{66CCF3D6-EC13-4DCD-A97F-CA672AAC5B96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_IEnumerableExtensionMethods", "IEnumerableExtensionMethods\02_IEnumerableExtensionMethods.csproj", "{BDA66392-34C3-4711-AA8B-048C08B0752A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_StudentNames", "StudentNames\03_StudentNames.csproj", "{97AC029F-67CF-4E79-A807-0707CB3E610F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_FindStudentsWithProperAge", "FindStudentsWithProperAge\04_FindStudentsWithProperAge.csproj", "{7E9EAD85-5AE0-4D20-9DF5-08406A96834C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_StudentsSort", "StudentsSort\05_StudentsSort.csproj", "{32B33EBA-C315-454D-908F-998D5EDED720}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_PrintDivisableNumbers", "PrintDivisableNumbers\06_PrintDivisableNumbers.csproj", "{F47CDEAB-0688-4FF0-AB81-56635C61A671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_TimerWithDelegates", "TimerWithDelegates\07_TimerWithDelegates.csproj", "{CCE4BB18-0C23-4D2B-83AF-3CABC5B1207F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66CCF3D6-EC13-4DCD-A97F-CA672AAC5B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66CCF3D6-EC13-4DCD-A97F-CA672AAC5B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66CCF3D6-EC13-4DCD-A97F-CA672AAC5B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66CCF3D6-EC13-4DCD-A97F-CA672AAC5B96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDA66392-34C3-4711-AA8B-048C08B0752A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA66392-34C3-4711-AA8B-048C08B0752A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA66392-34C3-4711-AA8B-048C08B0752A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA66392-34C3-4711-AA8B-048C08B0752A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97AC029F-67CF-4E79-A807-0707CB3E610F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97AC029F-67CF-4E79-A807-0707CB3E610F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97AC029F-67CF-4E79-A807-0707CB3E610F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97AC029F-67CF-4E79-A807-0707CB3E610F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E9EAD85-5AE0-4D20-9DF5-08406A96834C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E9EAD85-5AE0-4D20-9DF5-08406A96834C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E9EAD85-5AE0-4D20-9DF5-08406A96834C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E9EAD85-5AE0-4D20-9DF5-08406A96834C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32B33EBA-C315-454D-908F-998D5EDED720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B33EBA-C315-454D-908F-998D5EDED720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B33EBA-C315-454D-908F-998D5EDED720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B33EBA-C315-454D-908F-998D5EDED720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F47CDEAB-0688-4FF0-AB81-56635C61A671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F47CDEAB-0688-4FF0-AB81-56635C61A671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F47CDEAB-0688-4FF0-AB81-56635C61A671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F47CDEAB-0688-4FF0-AB81-56635C61A671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE4BB18-0C23-4D2B-83AF-3CABC5B1207F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE4BB18-0C23-4D2B-83AF-3CABC5B1207F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE4BB18-0C23-4D2B-83AF-3CABC5B1207F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE4BB18-0C23-4D2B-83AF-3CABC5B1207F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

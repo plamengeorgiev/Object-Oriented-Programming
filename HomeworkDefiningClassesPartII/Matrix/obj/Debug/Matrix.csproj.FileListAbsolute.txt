@@ -1,0 +1,6 @@
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkDefiningClassesPartII\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkDefiningClassesPartII\Matrix\bin\Debug\Matrix.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkDefiningClassesPartII\Matrix\bin\Debug\Matrix.pdb
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkDefiningClassesPartII\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkDefiningClassesPartII\Matrix\obj\Debug\Matrix.exe
+C:\Users\Plamen\documents\visual studio 2012\Projects\HomeworkDefiningClassesPartII\Matrix\obj\Debug\Matrix.pdb

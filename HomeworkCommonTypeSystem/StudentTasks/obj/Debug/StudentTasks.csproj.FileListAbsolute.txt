@@ -1,0 +1,6 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkCommonTypeSystem\StudentTasks\bin\Debug\StudentTasks.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkCommonTypeSystem\StudentTasks\bin\Debug\StudentTasks.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkCommonTypeSystem\StudentTasks\bin\Debug\StudentTasks.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkCommonTypeSystem\StudentTasks\obj\Debug\StudentTasks.csprojResolveAssemblyReference.cache
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkCommonTypeSystem\StudentTasks\obj\Debug\StudentTasks.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkCommonTypeSystem\StudentTasks\obj\Debug\StudentTasks.pdb

@@ -1,0 +1,6 @@
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\TimerWithDelegates\bin\Debug\TimerWithDelegates.exe.config
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\TimerWithDelegates\bin\Debug\TimerWithDelegates.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\TimerWithDelegates\bin\Debug\TimerWithDelegates.pdb
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\TimerWithDelegates\obj\Debug\07_TimerWithDelegates.csprojResolveAssemblyReference.cache
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\TimerWithDelegates\obj\Debug\TimerWithDelegates.exe
+c:\users\plamen\documents\visual studio 2012\Projects\HomeworkExtMethodsDelegatesLINQ\TimerWithDelegates\obj\Debug\TimerWithDelegates.pdb
